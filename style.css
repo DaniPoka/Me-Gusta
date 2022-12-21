@@ -33,7 +33,7 @@
 
 .container {
     display: flex;
-    
+    justify-content: center;
 }
 
 .columna1 {
